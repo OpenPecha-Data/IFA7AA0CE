@@ -1,15 +1,16 @@
-id: opecha:P008153
+id: P008153
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ1105
   title: ཞལ་གདམས་གནད་ཀྱི་ཟླ་ཟེར་
-  volume:
+  author: ''
+  volumes:
     e2cc39ff404a46cfbb2adeace816a39e:
       image_group_id: I1CZ1372
       title: Volume 1 of zhal gdams gnad kyi zla zer
       volume_number: 1
       total_pages: 28
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཞལ་གདམས་གནད་ཀྱི་ཟླ་ཟེར་
   author: ''
